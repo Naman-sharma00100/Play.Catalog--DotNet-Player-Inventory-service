@@ -43,3 +43,10 @@ C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Cat
 C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practise projects\Microservice-Project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net6.0\Play.Common.dll

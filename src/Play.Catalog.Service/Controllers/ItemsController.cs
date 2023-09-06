@@ -1,12 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Play.Catalog.Service.Dtos;
-using Play.Catalog.Service.Repositories;
 using Play.Catalog.Service.Entities;
 
 using System;
 using System.Net.Http.Headers;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Play.Common;
 
 namespace Play.Catalog.Service.Controllers
 {

@@ -1,4 +1,5 @@
 using Microsoft.Net.Http.Headers;
+using Play.Common;
 
 namespace Play.Catalog.Service.Entities
 {
