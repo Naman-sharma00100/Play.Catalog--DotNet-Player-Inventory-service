@@ -7,6 +7,8 @@
 
 This project is made using .NET Core 6 and employs a microservice architecture with Docker, Git, RabbitMQ, and Postman. It simulates a game environment where players interact with a shop's item catalog and their inventories.
 
+</div>
+
 ## Game Environment Simulation:
 
 Step into a captivating game world where players engage with a shop's vast item catalog and manage their inventories.
