@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZqCoKWW/J+hxplIPZe+Y49NtC5sYJSAP7LuolU4s8NKqzgEhmFeoOtZx/ryhY/ZLTksi0wBTCfM/8OFPA8Z/w==",
+  "dgSpecHash": "Ji03thOkOa2HhnBm2votHbMS12o9Pl47LDXICe1uwL+Vo8bfbegNEHSm0HupL7Me+QuP016nVZqNMBbdJA8a2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Practise projects\\AzureDeployment\\Player-Shop-System-Play.Service\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Practise projects\\AzureDeployment\\Player-Shop-System-Play.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
